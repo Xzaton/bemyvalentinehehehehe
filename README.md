@@ -4,9 +4,9 @@ A cute, interactive Valentine's Day website featuring Milk & Mocha bears. Try sa
  
 ## Live demo
  
-👉 [https://zhanghannahx.github.io/milk-mocha-valentine/](https://zhanghannahx.github.io/milk-mocha-valentine/)
+https://xzaton.github.io/bemyvalentinehehehehe/
  
-## What it does
+# What it does
  
 - Asks "Will you be my Valentine?" with an adorable Milk & Mocha bear GIF
 - Click **No** and the button shrinks while the **Yes** button grows
@@ -20,12 +20,6 @@ A cute, interactive Valentine's Day website featuring Milk & Mocha bears. Try sa
 - HTML, CSS, JavaScript (single file, no dependencies)
 - GIFs from [milkmochabear's official GIPHY channel](https://giphy.com/milkmochabear)
 - Hosted on GitHub Pages
- 
-## Use it yourself
- 
-1. Fork this repo
-2. Enable GitHub Pages in Settings → Pages → Deploy from branch → main
-3. Send the link to someone special
  
 ## Credits
  
